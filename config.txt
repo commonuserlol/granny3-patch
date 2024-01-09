@@ -1,0 +1,8 @@
+{
+  "interaction": {
+    "type": "script",
+    "path": "libhaccer.so",
+    "on_change":"reload"
+  },
+  "runtime": "v8"
+}
